@@ -5,7 +5,10 @@ from HTMLTestRunner import HTMLTestRunner
 from util.auto_log import AutoLog
 from webpage.loginpage.login_page import Login
 from util.excel_operation import OperationExcel
-import re
+import sys
+import os
+sys.path.append(os.getcwd()+"\\..\\..")
+from HTMLTestRunner import HTMLTestRunner
 
 class LoginTest(unittest.TestCase):
     def setUp(self) -> None:

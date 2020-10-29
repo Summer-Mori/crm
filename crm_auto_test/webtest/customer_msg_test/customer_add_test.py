@@ -1,7 +1,8 @@
 import time
 import unittest
 import sys
-sys.path.append("E:\\gxa\\crm_auto_test")
+import os
+sys.path.append(os.getcwd()+"\\..\\..")
 from HTMLTestRunner import HTMLTestRunner
 
 from base.use_browser import UseBrowser
@@ -40,6 +41,7 @@ class CustomerAddTest(unittest.TestCase):
                                  blog=self.exl.get_cell(CustomerAddTest.conut,17),msn=self.exl.get_cell(CustomerAddTest.conut,18),remark=self.exl.get_cell(CustomerAddTest.conut,19))
         self.assertEqual(self.exl.get_cell(CustomerAddTest.conut,20),msg)
 if __name__ == '__main__':
+
     # 创建套件
     suite = unittest.TestSuite()
     # 添加全部测试用例

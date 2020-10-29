@@ -9,7 +9,7 @@ class UseBrowser:
     driver = None
 
     def __init__(self):
-        self.driver = webdriver.Chrome("../driver/chromedriver.exe")
+        self.driver = webdriver.Chrome("../../driver/chromedriver.exe")
         self.driver.maximize_window()
         self.driver.implicitly_wait(30)
         UseBrowser.driver = self.driver

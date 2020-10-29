@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>auto_test</h1>
-<p class='attribute'><strong>Start Time:</strong> 2020-10-29 11:25:51</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:00.519691</p>
-<p class='attribute'><strong>Status:</strong> Error 2</p>
+<p class='attribute'><strong>Start Time:</strong> 2020-10-29 17:01:38</p>
+<p class='attribute'><strong>Duration:</strong> 0:01:41.940674</p>
+<p class='attribute'><strong>Status:</strong> Pass 2</p>
 
 <p class='description'>ui_auto_test</p>
 </div>
@@ -221,83 +221,31 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>CustomerAddTest</td>
     <td>2</td>
-    <td>0</td>
-    <td>0</td>
     <td>2</td>
+    <td>0</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c1',2)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_01_all_success</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_01_all_success</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
 
-    <div id='div_ft1.1' class="popup_window">
+    <div id='div_pt1.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.1: Traceback (most recent call last):
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
-    stdin=PIPE)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 800, in __init__
-    restore_signals, start_new_session)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 1207, in _execute_child
-    startupinfo)
-FileNotFoundError: [WinError 2] 系统找不到指定的文件。
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "customer_add_test.py", line 21, in setUp
-    self.dr=CustomerAdd(self.exl.get_cell(1,1),"../../config/locator.yaml")
-  File "E:\gxa\crm_auto_test\webpage\customer_msg\customer_add.py", line 14, in __init__
-    login=Login(url, yaml_path)
-  File "E:\gxa\crm_auto_test\webpage\loginpage\login_page.py", line 15, in __init__
-    self.ub = UseBrowser()
-  File "E:\gxa\crm_auto_test\base\use_browser.py", line 12, in __init__
-    self.driver = webdriver.Chrome("../driver/chromedriver.exe")
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 73, in __init__
-    self.service.start()
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
-    os.path.basename(self.path), self.start_error_message)
-selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
-
-Traceback (most recent call last):
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
-    stdin=PIPE)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 800, in __init__
-    restore_signals, start_new_session)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 1207, in _execute_child
-    startupinfo)
-FileNotFoundError: [WinError 2] 系统找不到指定的文件。
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "customer_add_test.py", line 21, in setUp
-    self.dr=CustomerAdd(self.exl.get_cell(1,1),"../../config/locator.yaml")
-  File "E:\gxa\crm_auto_test\webpage\customer_msg\customer_add.py", line 14, in __init__
-    login=Login(url, yaml_path)
-  File "E:\gxa\crm_auto_test\webpage\loginpage\login_page.py", line 15, in __init__
-    self.ub = UseBrowser()
-  File "E:\gxa\crm_auto_test\base\use_browser.py", line 12, in __init__
-    self.driver = webdriver.Chrome("../driver/chromedriver.exe")
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 73, in __init__
-    self.service.start()
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
-    os.path.basename(self.path), self.start_error_message)
-selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
-
-
+pt1.1: 
 
         </pre>
     </div>
@@ -306,74 +254,22 @@ selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' execu
     </td>
 </tr>
 
-<tr id='ft1.2' class='none'>
-    <td class='errorCase'><div class='testcase'>test_02_all_success</div></td>
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_02_all_success</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.2')" >
-        error</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
 
-    <div id='div_ft1.2' class="popup_window">
+    <div id='div_pt1.2' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.2').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.2: Traceback (most recent call last):
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
-    stdin=PIPE)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 800, in __init__
-    restore_signals, start_new_session)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 1207, in _execute_child
-    startupinfo)
-FileNotFoundError: [WinError 2] 系统找不到指定的文件。
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "customer_add_test.py", line 21, in setUp
-    self.dr=CustomerAdd(self.exl.get_cell(1,1),"../../config/locator.yaml")
-  File "E:\gxa\crm_auto_test\webpage\customer_msg\customer_add.py", line 14, in __init__
-    login=Login(url, yaml_path)
-  File "E:\gxa\crm_auto_test\webpage\loginpage\login_page.py", line 15, in __init__
-    self.ub = UseBrowser()
-  File "E:\gxa\crm_auto_test\base\use_browser.py", line 12, in __init__
-    self.driver = webdriver.Chrome("../driver/chromedriver.exe")
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 73, in __init__
-    self.service.start()
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
-    os.path.basename(self.path), self.start_error_message)
-selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
-
-Traceback (most recent call last):
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
-    stdin=PIPE)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 800, in __init__
-    restore_signals, start_new_session)
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\subprocess.py", line 1207, in _execute_child
-    startupinfo)
-FileNotFoundError: [WinError 2] 系统找不到指定的文件。
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "customer_add_test.py", line 21, in setUp
-    self.dr=CustomerAdd(self.exl.get_cell(1,1),"../../config/locator.yaml")
-  File "E:\gxa\crm_auto_test\webpage\customer_msg\customer_add.py", line 14, in __init__
-    login=Login(url, yaml_path)
-  File "E:\gxa\crm_auto_test\webpage\loginpage\login_page.py", line 15, in __init__
-    self.ub = UseBrowser()
-  File "E:\gxa\crm_auto_test\base\use_browser.py", line 12, in __init__
-    self.driver = webdriver.Chrome("../driver/chromedriver.exe")
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 73, in __init__
-    self.service.start()
-  File "C:\Users\60558\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
-    os.path.basename(self.path), self.start_error_message)
-selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
-
-
+pt1.2: 
 
         </pre>
     </div>
@@ -385,9 +281,9 @@ selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' execu
 <tr id='total_row'>
     <td>Total</td>
     <td>2</td>
-    <td>0</td>
-    <td>0</td>
     <td>2</td>
+    <td>0</td>
+    <td>0</td>
     <td>&nbsp;</td>
 </tr>
 </table>
