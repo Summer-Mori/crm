@@ -1,0 +1,597 @@
+INFO 2020-10-27 17:33:52,130 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 17:33:52,135 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 17:33:52,221 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 17:33:52,222 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 17:33:52,302 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 17:33:52,302 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 17:33:52,764 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 17:33:53,799 frame:topFrame 切换成功！
+INFO 2020-10-27 17:33:54,800 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 17:33:54,887 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 17:33:55,957 frame切换到default成功！
+INFO 2020-10-27 17:34:28,000 frame:mainFrame 切换成功！
+INFO 2020-10-27 17:34:29,000 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 17:34:29,582 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 17:34:29,582 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 17:34:29,661 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-27 17:34:29,661 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 17:34:29,722 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-27 17:34:29,722 yaml:customerBirthday 读取成功
+INFO 2020-10-27 17:34:29,727 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 17:34:29,727 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 17:34:29,800 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 17:34:29,801 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 17:34:29,851 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-27 17:34:29,852 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 17:34:29,901 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 17:34:29,902 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 17:34:29,962 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-27 17:34:29,962 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 17:34:30,015 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-27 17:34:30,015 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 17:34:30,061 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 17:34:30,061 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 17:34:30,121 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 17:34:30,122 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 17:34:30,212 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 17:34:30,212 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 17:34:30,273 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 17:34:30,274 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 17:34:30,342 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 17:34:30,343 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 17:34:30,399 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 17:34:30,399 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 17:34:30,456 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 17:34:30,456 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 17:34:30,525 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 17:34:30,525 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 17:34:30,588 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 17:34:30,589 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 17:34:30,756 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 17:34:30,758 Alert:客户添加成功
+INFO 2020-10-27 17:34:36,941 quit！
+INFO 2020-10-27 18:20:08,084 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:20:08,089 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:20:08,168 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:20:08,169 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:20:08,242 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:20:08,242 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:20:08,640 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:20:09,673 frame:topFrame 切换成功！
+INFO 2020-10-27 18:20:10,673 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:20:10,762 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:20:11,766 frame切换到default成功！
+INFO 2020-10-27 18:20:43,815 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:20:44,815 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:20:45,319 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:20:45,319 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:20:45,394 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-27 18:20:45,394 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:20:45,464 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-27 18:20:45,464 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:20:45,469 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:20:45,469 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:20:45,548 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:20:45,548 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:20:45,609 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-27 18:20:45,609 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:20:45,668 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:20:45,668 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:20:45,736 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-27 18:20:45,737 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:20:45,793 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-27 18:20:45,794 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:20:45,846 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:20:45,846 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:20:45,912 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:20:45,912 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:20:46,001 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:20:46,002 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:20:46,071 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:20:46,072 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:20:46,150 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:20:46,150 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:20:46,204 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:20:46,205 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:20:46,264 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:20:46,265 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:20:46,335 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:20:46,335 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:20:46,403 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:20:46,403 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:20:46,585 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:20:46,588 Alert:客户添加成功
+INFO 2020-10-27 18:20:52,779 quit！
+INFO 2020-10-27 18:38:01,715 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:38:01,721 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:38:01,807 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:38:01,808 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:38:01,887 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:38:01,888 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:38:02,316 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:38:03,351 frame:topFrame 切换成功！
+INFO 2020-10-27 18:38:04,352 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:38:04,441 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:38:05,446 frame切换到default成功！
+INFO 2020-10-27 18:38:37,498 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:38:38,498 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:38:39,118 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:38:39,118 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:38:39,195 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-27 18:38:39,196 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:38:39,261 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-27 18:38:39,262 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:38:39,268 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:38:39,268 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:38:39,346 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:38:39,347 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:38:39,407 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-27 18:38:39,408 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:38:39,470 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:38:39,471 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:38:39,543 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-27 18:38:39,543 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:38:39,604 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-27 18:38:39,604 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:38:39,657 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:38:39,658 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:38:39,722 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:38:39,723 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:38:39,811 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:38:39,812 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:38:39,880 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:38:39,881 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:38:39,956 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:38:39,956 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:38:40,016 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:38:40,017 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:38:40,074 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:38:40,075 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:38:40,143 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:38:40,144 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:38:40,205 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:38:40,206 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:38:40,347 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:38:40,350 Alert:客户添加成功
+INFO 2020-10-27 18:38:46,500 quit！
+INFO 2020-10-27 18:38:52,775 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:38:52,781 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:38:52,859 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:38:52,860 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:38:52,950 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:38:52,950 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:38:53,352 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:38:54,385 frame:topFrame 切换成功！
+INFO 2020-10-27 18:38:55,386 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:38:55,469 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:38:56,473 frame切换到default成功！
+INFO 2020-10-27 18:39:28,542 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:39:29,542 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:39:30,218 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:39:30,219 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:39:30,298 xpth://input[@name='customerName'] 添加:小林 成功
+INFO 2020-10-27 18:39:30,298 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:39:30,361 xpth://input[@name='customerJob'] 添加:老板 成功
+INFO 2020-10-27 18:39:30,361 yaml://input[@value='女'] 读取成功
+INFO 2020-10-27 18:39:30,438 xpth://input[@value='女'] 点击成功
+INFO 2020-10-27 18:39:30,439 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:39:30,443 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:39:30,444 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:39:30,513 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:39:30,513 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:39:30,562 xpth://input[@name='customerAddress'] 添加:成都 成功
+INFO 2020-10-27 18:39:30,562 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:39:30,611 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:39:30,612 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:39:30,673 xpth://input[@name='customerTel'] 添加:7654321 成功
+INFO 2020-10-27 18:39:30,673 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:39:30,731 xpth://input[@name='customerCompany'] 添加:华为 成功
+INFO 2020-10-27 18:39:30,732 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:39:30,782 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:39:30,782 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:39:30,841 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:39:30,842 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:39:30,931 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:39:30,932 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:39:30,993 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:39:30,994 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:39:31,069 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:39:31,069 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:39:31,121 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:39:31,121 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:39:31,174 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:39:31,174 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:39:31,237 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:39:31,238 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:39:31,295 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:39:31,296 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:39:31,434 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:39:31,437 Alert:客户添加成功
+INFO 2020-10-27 18:39:37,614 quit！
+INFO 2020-10-27 18:40:38,975 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:40:38,980 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:40:39,057 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:40:39,057 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:40:39,132 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:40:39,133 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:40:39,536 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:40:40,569 frame:topFrame 切换成功！
+INFO 2020-10-27 18:40:41,569 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:40:41,690 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:40:42,695 frame切换到default成功！
+INFO 2020-10-27 18:41:14,780 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:41:15,780 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:41:16,338 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:41:16,338 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:41:16,422 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-27 18:41:16,422 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:41:16,485 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-27 18:41:16,485 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:41:16,491 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:41:16,491 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:41:16,573 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:41:16,574 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:41:16,636 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-27 18:41:16,637 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:41:16,695 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:41:16,695 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:41:16,769 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-27 18:41:16,770 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:41:16,834 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-27 18:41:16,834 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:41:16,888 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:41:16,889 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:41:16,953 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:41:16,954 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:41:17,041 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:41:17,042 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:41:17,112 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:41:17,112 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:41:17,189 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:41:17,190 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:41:17,248 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:41:17,248 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:41:17,310 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:41:17,311 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:41:17,380 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:41:17,380 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:41:17,445 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:41:17,446 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:41:17,598 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:41:17,601 Alert:客户添加成功
+INFO 2020-10-27 18:41:23,907 quit！
+INFO 2020-10-27 18:41:30,139 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:41:30,144 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:41:30,224 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:41:30,224 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:41:30,298 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:41:30,299 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:41:30,801 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:41:31,836 frame:topFrame 切换成功！
+INFO 2020-10-27 18:41:32,836 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:41:32,926 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:41:33,931 frame切换到default成功！
+INFO 2020-10-27 18:42:06,020 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:42:07,022 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:42:07,615 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:42:07,615 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:42:07,690 xpth://input[@name='customerName'] 添加:小林 成功
+INFO 2020-10-27 18:42:07,691 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:42:07,758 xpth://input[@name='customerJob'] 添加:老板 成功
+INFO 2020-10-27 18:42:07,759 yaml://input[@value='女'] 读取成功
+INFO 2020-10-27 18:42:07,838 xpth://input[@value='女'] 点击成功
+INFO 2020-10-27 18:42:07,839 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:42:07,845 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:42:07,845 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:42:07,934 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:42:07,934 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:42:07,995 xpth://input[@name='customerAddress'] 添加:成都 成功
+INFO 2020-10-27 18:42:07,996 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:42:08,057 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:42:08,058 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:42:08,131 xpth://input[@name='customerTel'] 添加:7654321 成功
+INFO 2020-10-27 18:42:08,132 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:42:08,188 xpth://input[@name='customerCompany'] 添加:华为 成功
+INFO 2020-10-27 18:42:08,189 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:42:08,240 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:42:08,240 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:42:08,302 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:42:08,302 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:42:08,389 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:42:08,390 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:42:08,456 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:42:08,457 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:42:08,532 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:42:08,533 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:42:08,592 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:42:08,592 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:42:08,654 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:42:08,654 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:42:08,728 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:42:08,728 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:42:08,791 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:42:08,792 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:42:08,937 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:42:08,940 Alert:客户添加成功
+INFO 2020-10-27 18:42:15,169 quit！
+ERROR 2020-10-27 18:44:37,832 (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://www.summermori.icu:8080/crm' at line 1")
+INFO 2020-10-27 18:44:43,753 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:44:43,759 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:44:43,840 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:44:43,841 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:44:43,912 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:44:43,912 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:44:44,389 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:44:45,423 frame:topFrame 切换成功！
+INFO 2020-10-27 18:44:46,423 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:44:46,513 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:44:47,518 frame切换到default成功！
+INFO 2020-10-27 18:45:19,559 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:45:20,560 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:45:21,210 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:45:21,211 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:45:21,287 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-27 18:45:21,288 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:45:21,352 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-27 18:45:21,353 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:45:21,357 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:45:21,357 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:45:21,445 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:45:21,445 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:45:21,504 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-27 18:45:21,504 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:45:21,564 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:45:21,565 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:45:21,637 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-27 18:45:21,637 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:45:21,702 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-27 18:45:21,702 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:45:21,756 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:45:21,756 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:45:21,822 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:45:21,822 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:45:21,909 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:45:21,910 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:45:21,982 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:45:21,983 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:45:22,056 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:45:22,057 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:45:22,106 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:45:22,107 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:45:22,160 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:45:22,161 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:45:22,226 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:45:22,226 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:45:22,285 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:45:22,286 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:45:22,425 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:45:22,428 Alert:客户添加成功
+INFO 2020-10-27 18:45:28,595 quit！
+ERROR 2020-10-27 18:45:28,851 (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://www.summermori.icu:8080/crm' at line 1")
+INFO 2020-10-27 18:45:34,765 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:45:34,771 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:45:34,851 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:45:34,852 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:45:34,919 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:45:34,920 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:45:35,404 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:45:36,438 frame:topFrame 切换成功！
+INFO 2020-10-27 18:45:37,440 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:45:37,520 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:45:38,526 frame切换到default成功！
+INFO 2020-10-27 18:46:10,597 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:46:11,597 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:46:12,190 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:46:12,190 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:46:12,269 xpth://input[@name='customerName'] 添加:小林 成功
+INFO 2020-10-27 18:46:12,270 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:46:12,334 xpth://input[@name='customerJob'] 添加:老板 成功
+INFO 2020-10-27 18:46:12,334 yaml://input[@value='女'] 读取成功
+INFO 2020-10-27 18:46:12,417 xpth://input[@value='女'] 点击成功
+INFO 2020-10-27 18:46:12,417 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:46:12,427 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:46:12,428 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:46:12,511 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:46:12,511 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:46:12,567 xpth://input[@name='customerAddress'] 添加:成都 成功
+INFO 2020-10-27 18:46:12,567 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:46:12,621 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:46:12,621 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:46:12,689 xpth://input[@name='customerTel'] 添加:7654321 成功
+INFO 2020-10-27 18:46:12,689 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:46:12,749 xpth://input[@name='customerCompany'] 添加:华为 成功
+INFO 2020-10-27 18:46:12,749 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:46:12,802 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:46:12,802 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:46:12,867 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:46:12,867 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:46:12,959 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:46:12,960 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:46:13,022 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:46:13,023 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:46:13,117 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:46:13,117 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:46:13,181 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:46:13,181 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:46:13,246 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:46:13,246 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:46:13,319 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:46:13,320 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:46:13,383 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:46:13,383 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:46:13,528 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:46:13,531 Alert:客户添加成功
+INFO 2020-10-27 18:46:19,688 quit！
+ERROR 2020-10-27 18:47:00,660 (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://www.summermori.icu:8080/crm' at line 1")
+INFO 2020-10-27 18:47:06,515 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:47:06,520 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:47:06,594 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:47:06,594 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:47:06,663 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:47:06,664 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:47:07,108 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:47:08,142 frame:topFrame 切换成功！
+INFO 2020-10-27 18:47:09,142 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:47:09,229 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:47:10,233 frame切换到default成功！
+INFO 2020-10-27 18:47:42,309 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:47:43,309 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:47:43,958 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:47:43,959 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:47:44,035 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-27 18:47:44,035 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:47:44,098 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-27 18:47:44,099 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:47:44,109 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:47:44,110 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:47:44,186 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:47:44,186 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:47:44,243 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-27 18:47:44,244 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:47:44,303 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:47:44,304 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:47:44,375 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-27 18:47:44,375 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:47:44,435 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-27 18:47:44,436 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:47:44,486 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:47:44,487 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:47:44,550 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:47:44,550 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:47:44,637 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:47:44,638 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:47:44,706 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:47:44,707 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:47:44,781 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:47:44,782 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:47:44,842 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:47:44,842 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:47:44,904 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:47:44,905 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:47:44,974 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:47:44,975 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:47:45,037 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:47:45,038 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:47:45,182 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:47:45,185 Alert:客户添加成功
+INFO 2020-10-27 18:47:51,354 quit！
+ERROR 2020-10-27 18:47:51,601 (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://www.summermori.icu:8080/crm' at line 1")
+INFO 2020-10-27 18:47:57,697 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:47:57,704 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:47:57,795 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:47:57,795 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:47:57,868 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:47:57,869 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:47:58,354 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:47:59,389 frame:topFrame 切换成功！
+INFO 2020-10-27 18:48:00,389 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:48:00,488 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:48:01,492 frame切换到default成功！
+INFO 2020-10-27 18:48:33,555 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-27 18:48:39,685 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:48:39,690 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:48:39,771 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:48:39,772 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:48:39,841 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:48:39,841 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:48:40,248 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:48:41,282 frame:topFrame 切换成功！
+INFO 2020-10-27 18:48:42,284 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:48:42,370 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:48:43,374 frame切换到default成功！
+INFO 2020-10-27 18:49:15,435 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:49:16,436 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:49:17,082 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:49:17,083 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:49:17,164 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-27 18:49:17,165 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:49:17,227 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-27 18:49:17,228 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:49:17,233 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:49:17,233 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:49:17,315 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:49:17,315 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:49:17,377 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-27 18:49:17,378 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:49:17,441 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:49:17,442 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:49:17,511 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-27 18:49:17,511 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:49:17,568 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-27 18:49:17,568 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:49:17,619 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:49:17,619 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:49:17,678 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:49:17,679 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:49:17,768 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:49:17,768 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:49:17,832 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:49:17,833 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:49:17,909 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:49:17,909 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:49:17,966 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:49:17,966 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:49:18,028 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:49:18,029 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:49:18,102 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:49:18,103 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:49:18,165 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:49:18,165 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:49:18,316 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:49:18,319 Alert:客户添加成功
+INFO 2020-10-27 18:49:24,500 quit！
+INFO 2020-10-27 18:49:24,742 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-27 18:49:30,656 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-27 18:49:30,661 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-27 18:49:30,750 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-27 18:49:30,751 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-27 18:49:30,831 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-27 18:49:30,832 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-27 18:49:31,261 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-27 18:49:32,292 frame:topFrame 切换成功！
+INFO 2020-10-27 18:49:33,293 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-27 18:49:33,407 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-27 18:49:34,411 frame切换到default成功！
+INFO 2020-10-27 18:50:06,450 frame:mainFrame 切换成功！
+INFO 2020-10-27 18:50:07,452 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-27 18:50:08,029 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-27 18:50:08,029 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-27 18:50:08,107 xpth://input[@name='customerName'] 添加:小林 成功
+INFO 2020-10-27 18:50:08,107 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-27 18:50:08,169 xpth://input[@name='customerJob'] 添加:老板 成功
+INFO 2020-10-27 18:50:08,170 yaml://input[@value='女'] 读取成功
+INFO 2020-10-27 18:50:08,248 xpth://input[@value='女'] 点击成功
+INFO 2020-10-27 18:50:08,248 yaml:customerBirthday 读取成功
+INFO 2020-10-27 18:50:08,253 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-27 18:50:08,254 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-27 18:50:08,342 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-27 18:50:08,342 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-27 18:50:08,404 xpth://input[@name='customerAddress'] 添加:成都 成功
+INFO 2020-10-27 18:50:08,405 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-27 18:50:08,466 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-27 18:50:08,466 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-27 18:50:08,537 xpth://input[@name='customerTel'] 添加:7654321 成功
+INFO 2020-10-27 18:50:08,537 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-27 18:50:08,598 xpth://input[@name='customerCompany'] 添加:华为 成功
+INFO 2020-10-27 18:50:08,599 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-27 18:50:08,651 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-27 18:50:08,652 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-27 18:50:08,716 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-27 18:50:08,716 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-27 18:50:08,808 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-27 18:50:08,809 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-27 18:50:08,873 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-27 18:50:08,874 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-27 18:50:08,949 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-27 18:50:08,949 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-27 18:50:09,007 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-27 18:50:09,008 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-27 18:50:09,069 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-27 18:50:09,070 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-27 18:50:09,141 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-27 18:50:09,142 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-27 18:50:09,207 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-27 18:50:09,207 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-27 18:50:09,350 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-27 18:50:09,353 Alert:客户添加成功
+INFO 2020-10-27 18:50:15,521 quit！

@@ -1,0 +1,76 @@
+INFO 2020-10-29 10:12:37,936 database:crm 连接
+INFO 2020-10-29 10:12:38,022 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 10:12:38,204 database:crm 连接
+INFO 2020-10-29 10:12:38,280 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 10:12:41,172 database:crm 连接
+INFO 2020-10-29 10:12:41,250 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 10:12:41,437 database:crm 连接
+INFO 2020-10-29 10:12:41,525 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:00:29,638 database:crm 连接
+INFO 2020-10-29 11:00:29,726 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:00:29,900 database:crm 连接
+INFO 2020-10-29 11:00:29,983 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:00:31,554 database:crm 连接
+INFO 2020-10-29 11:00:31,640 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:00:31,817 database:crm 连接
+INFO 2020-10-29 11:00:31,906 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:00:36,852 database:crm 连接
+INFO 2020-10-29 11:00:36,938 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:00:37,113 database:crm 连接
+INFO 2020-10-29 11:00:37,193 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:06:50,287 database:crm 连接
+INFO 2020-10-29 11:06:50,388 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:06:50,574 database:crm 连接
+INFO 2020-10-29 11:06:50,651 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:09:50,199 database:crm 连接
+INFO 2020-10-29 11:09:50,285 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:09:50,465 database:crm 连接
+INFO 2020-10-29 11:09:50,544 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:09:53,134 database:crm 连接
+INFO 2020-10-29 11:09:53,223 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:09:53,422 database:crm 连接
+INFO 2020-10-29 11:09:53,514 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:09:55,622 database:crm 连接
+INFO 2020-10-29 11:09:55,701 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:09:55,876 database:crm 连接
+INFO 2020-10-29 11:09:55,957 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:09:59,289 database:crm 连接
+INFO 2020-10-29 11:09:59,368 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:09:59,615 database:crm 连接
+INFO 2020-10-29 11:09:59,728 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:13:36,752 database:crm 连接
+INFO 2020-10-29 11:13:36,840 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:13:37,008 database:crm 连接
+INFO 2020-10-29 11:13:37,085 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:13:39,294 database:crm 连接
+INFO 2020-10-29 11:13:39,382 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:13:39,556 database:crm 连接
+INFO 2020-10-29 11:13:39,634 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:13:41,824 database:crm 连接
+INFO 2020-10-29 11:13:41,903 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:13:42,086 database:crm 连接
+INFO 2020-10-29 11:13:42,164 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:13:45,055 database:crm 连接
+INFO 2020-10-29 11:13:45,261 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:13:45,515 database:crm 连接
+INFO 2020-10-29 11:13:45,612 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:20:18,590 database:crm 连接
+INFO 2020-10-29 11:20:18,668 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:20:18,844 database:crm 连接
+INFO 2020-10-29 11:20:18,959 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:20:20,928 database:crm 连接
+INFO 2020-10-29 11:20:21,015 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:20:21,245 database:crm 连接
+INFO 2020-10-29 11:20:21,336 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:25:10,926 database:crm 连接
+INFO 2020-10-29 11:25:11,005 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:25:11,192 database:crm 连接
+INFO 2020-10-29 11:25:11,276 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:25:13,653 database:crm 连接
+INFO 2020-10-29 11:25:13,816 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:25:13,981 database:crm 连接
+INFO 2020-10-29 11:25:14,060 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-29 11:25:52,002 database:crm 连接
+INFO 2020-10-29 11:25:52,082 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-29 11:25:52,262 database:crm 连接
+INFO 2020-10-29 11:25:52,343 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行

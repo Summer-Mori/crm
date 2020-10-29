@@ -1,0 +1,490 @@
+INFO 2020-10-23 19:47:06,866 url:{} 打开
+INFO 2020-10-23 19:47:18,958 crm关闭成功
+INFO 2020-10-23 19:47:22,654 url:{} 打开
+INFO 2020-10-23 19:47:34,768 crm关闭成功
+INFO 2020-10-23 19:47:38,438 url:{} 打开
+INFO 2020-10-23 19:47:50,537 crm关闭成功
+INFO 2020-10-23 19:47:54,177 url:{} 打开
+INFO 2020-10-23 19:48:06,270 crm关闭成功
+INFO 2020-10-23 19:48:10,040 url:{} 打开
+INFO 2020-10-23 19:48:22,139 crm关闭成功
+INFO 2020-10-23 19:48:26,184 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:48:38,279 crm关闭成功
+INFO 2020-10-23 19:48:42,030 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:48:54,112 crm关闭成功
+INFO 2020-10-23 19:48:57,884 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:49:09,979 crm关闭成功
+INFO 2020-10-23 19:49:13,691 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:49:25,781 crm关闭成功
+INFO 2020-10-23 19:49:29,484 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:49:41,598 crm关闭成功
+INFO 2020-10-23 19:50:25,896 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:50:30,969 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:50:31,033 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 19:50:31,450 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:50:32,455 title:客户关系管理系统
+INFO 2020-10-23 19:50:39,543 crm关闭成功
+INFO 2020-10-23 19:50:43,278 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:50:48,362 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:50:48,440 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 19:50:48,614 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:50:48,620 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 19:50:55,921 crm关闭成功
+INFO 2020-10-23 19:50:59,610 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:51:04,675 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 19:51:04,753 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 19:51:04,808 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:51:04,811 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 19:51:11,920 crm关闭成功
+INFO 2020-10-23 19:51:15,605 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:51:20,690 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:51:20,751 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 19:51:20,805 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:51:20,808 Alert:- 密码不能为空!
+
+INFO 2020-10-23 19:51:27,922 crm关闭成功
+INFO 2020-10-23 19:51:32,443 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:51:37,513 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 19:51:37,571 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 19:51:37,627 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:51:37,630 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 19:51:44,724 crm关闭成功
+INFO 2020-10-23 19:52:36,240 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:52:41,320 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:52:41,391 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 19:52:41,780 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:52:42,786 title:客户关系管理系统
+INFO 2020-10-23 19:52:49,897 crm关闭成功
+INFO 2020-10-23 19:52:53,607 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:52:58,690 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:52:58,762 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 19:52:58,916 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:52:58,918 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 19:52:58,918 case02 complete
+INFO 2020-10-23 19:53:06,029 crm关闭成功
+INFO 2020-10-23 19:53:10,084 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:53:15,151 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 19:53:15,228 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 19:53:15,277 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:53:15,279 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 19:53:22,399 crm关闭成功
+INFO 2020-10-23 19:53:26,090 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:53:31,173 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:53:31,234 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 19:53:31,282 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:53:31,285 Alert:- 密码不能为空!
+
+INFO 2020-10-23 19:53:38,394 crm关闭成功
+INFO 2020-10-23 19:53:42,083 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:53:47,153 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 19:53:47,209 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 19:53:47,258 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:53:47,262 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 19:53:54,375 crm关闭成功
+INFO 2020-10-23 19:55:56,093 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:56:01,174 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:56:01,250 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 19:56:01,644 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:56:02,650 title:客户关系管理系统
+INFO 2020-10-23 19:56:09,766 crm关闭成功
+INFO 2020-10-23 19:56:09,766 crm quite
+INFO 2020-10-23 19:56:13,510 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:56:18,585 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:56:18,657 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 19:56:18,836 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:56:18,839 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 19:56:18,840 case02 complete
+INFO 2020-10-23 19:56:25,940 crm关闭成功
+INFO 2020-10-23 19:56:25,941 crm quite
+INFO 2020-10-23 19:56:29,636 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:56:34,694 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 19:56:34,757 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 19:56:34,817 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:56:34,820 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 19:56:41,905 crm关闭成功
+INFO 2020-10-23 19:56:41,905 crm quite
+INFO 2020-10-23 19:56:45,600 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:56:50,686 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:56:50,751 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 19:56:50,802 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:56:50,804 Alert:- 密码不能为空!
+
+INFO 2020-10-23 19:56:57,969 crm关闭成功
+INFO 2020-10-23 19:56:57,970 crm quite
+INFO 2020-10-23 19:57:01,664 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:57:06,728 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 19:57:06,787 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 19:57:06,841 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:57:06,845 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 19:57:13,960 crm关闭成功
+INFO 2020-10-23 19:57:13,961 crm quite
+INFO 2020-10-23 19:59:23,682 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:59:28,765 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:59:28,837 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 19:59:29,261 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:59:30,268 title:客户关系管理系统
+INFO 2020-10-23 19:59:30,268 case01 complete
+INFO 2020-10-23 19:59:37,371 crm关闭成功
+INFO 2020-10-23 19:59:37,372 crm quite
+INFO 2020-10-23 19:59:41,045 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 19:59:46,128 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 19:59:46,203 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 19:59:46,370 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 19:59:46,373 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 19:59:46,373 case02 complete
+INFO 2020-10-23 19:59:53,470 crm关闭成功
+INFO 2020-10-23 19:59:53,471 crm quite
+INFO 2020-10-23 19:59:57,167 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:00:02,234 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:00:02,311 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:00:02,361 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:00:02,363 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:00:09,467 crm关闭成功
+INFO 2020-10-23 20:00:09,468 crm quite
+INFO 2020-10-23 20:00:13,440 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:00:18,530 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:00:18,589 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:00:18,644 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:00:18,646 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:00:25,747 crm关闭成功
+INFO 2020-10-23 20:00:25,748 crm quite
+INFO 2020-10-23 20:00:29,388 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:00:34,452 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:00:34,512 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:00:34,568 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:00:34,571 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:00:41,666 crm关闭成功
+INFO 2020-10-23 20:00:41,667 crm quite
+INFO 2020-10-23 20:03:09,267 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:03:09,342 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:03:09,414 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:03:09,864 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:03:10,872 title:客户关系管理系统
+INFO 2020-10-23 20:03:10,872 case01 complete
+INFO 2020-10-23 20:03:17,995 crm关闭成功
+INFO 2020-10-23 20:03:17,996 crm quite
+INFO 2020-10-23 20:03:21,639 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:03:21,720 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:03:21,796 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:03:22,565 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:03:22,569 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:03:22,570 case02 complete
+INFO 2020-10-23 20:03:29,680 crm关闭成功
+INFO 2020-10-23 20:03:30,036 crm quite
+INFO 2020-10-23 20:03:33,736 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:03:33,795 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:03:33,875 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:03:33,926 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:03:33,929 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:03:41,038 crm关闭成功
+INFO 2020-10-23 20:03:41,039 crm quite
+INFO 2020-10-23 20:03:44,716 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:03:44,793 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:03:44,852 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:03:44,904 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:03:44,907 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:03:52,031 crm关闭成功
+INFO 2020-10-23 20:03:52,031 crm quite
+INFO 2020-10-23 20:03:55,719 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:03:55,782 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:03:55,845 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:03:55,899 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:03:55,901 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:04:03,020 crm关闭成功
+INFO 2020-10-23 20:04:03,021 crm quite
+INFO 2020-10-23 20:07:08,694 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:07:08,772 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:07:08,848 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:07:09,247 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:07:10,252 title:客户关系管理系统
+INFO 2020-10-23 20:07:10,253 case01 complete
+INFO 2020-10-23 20:07:15,368 crm关闭成功
+INFO 2020-10-23 20:07:15,369 crm quite
+INFO 2020-10-23 20:07:19,342 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:07:19,416 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:07:19,491 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:07:19,665 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:07:19,667 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:07:19,668 case02 complete
+INFO 2020-10-23 20:07:24,763 crm关闭成功
+INFO 2020-10-23 20:07:24,763 crm quite
+INFO 2020-10-23 20:07:28,447 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:07:28,512 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:07:28,588 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:07:28,644 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:07:28,645 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:07:33,755 crm关闭成功
+INFO 2020-10-23 20:07:33,756 crm quite
+INFO 2020-10-23 20:07:37,421 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:07:37,502 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:07:37,565 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:07:37,616 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:07:37,618 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:07:42,730 crm关闭成功
+INFO 2020-10-23 20:07:42,731 crm quite
+INFO 2020-10-23 20:07:46,448 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:07:46,515 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:07:46,573 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:07:46,626 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:07:46,629 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:07:51,735 crm关闭成功
+INFO 2020-10-23 20:07:51,736 crm quite
+INFO 2020-10-23 20:08:44,856 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:08:44,931 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:08:45,005 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:08:45,424 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:08:46,430 title:客户关系管理系统
+INFO 2020-10-23 20:08:46,431 case01 complete
+INFO 2020-10-23 20:08:51,554 crm关闭成功
+INFO 2020-10-23 20:08:51,555 crm quite
+INFO 2020-10-23 20:08:55,239 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:08:55,317 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:08:55,394 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:08:55,581 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:08:55,586 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:08:55,587 case02 complete
+INFO 2020-10-23 20:09:00,705 crm关闭成功
+INFO 2020-10-23 20:09:00,706 crm quite
+INFO 2020-10-23 20:09:04,413 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:09:04,481 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:09:04,556 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:09:04,610 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:09:04,614 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:09:09,720 crm关闭成功
+INFO 2020-10-23 20:09:09,721 crm quite
+INFO 2020-10-23 20:09:13,401 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:09:13,482 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:09:13,544 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:09:13,598 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:09:13,602 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:09:18,710 crm关闭成功
+INFO 2020-10-23 20:09:18,711 crm quite
+INFO 2020-10-23 20:09:22,406 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:09:22,471 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:09:22,532 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:09:22,587 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:09:22,589 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:09:27,685 crm关闭成功
+INFO 2020-10-23 20:09:27,686 crm quite
+INFO 2020-10-23 20:12:38,981 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:12:39,075 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:12:39,145 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:12:39,668 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:12:40,673 title:客户关系管理系统
+INFO 2020-10-23 20:12:45,786 crm关闭成功
+INFO 2020-10-23 20:12:45,787 crm quite
+INFO 2020-10-23 20:12:49,490 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:12:49,567 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:12:49,632 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:12:49,882 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:12:49,885 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:12:54,970 crm关闭成功
+INFO 2020-10-23 20:12:54,971 crm quite
+INFO 2020-10-23 20:12:58,785 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:12:58,850 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:12:58,945 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:12:58,999 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:12:59,001 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:13:04,091 crm关闭成功
+INFO 2020-10-23 20:13:04,092 crm quite
+INFO 2020-10-23 20:13:34,018 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:13:34,101 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:13:34,178 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:13:34,584 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:13:35,590 title:客户关系管理系统
+INFO 2020-10-23 20:13:35,591 case01 complete
+INFO 2020-10-23 20:13:40,872 crm关闭成功
+INFO 2020-10-23 20:13:40,872 crm quite
+INFO 2020-10-23 20:13:44,555 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:13:44,638 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:13:44,711 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:13:44,904 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:13:44,908 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:13:44,909 case02 complete
+INFO 2020-10-23 20:13:50,013 crm关闭成功
+INFO 2020-10-23 20:13:50,014 crm quite
+INFO 2020-10-23 20:13:53,646 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:13:53,707 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:13:53,788 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:13:53,845 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:13:53,847 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:13:53,848 case03 complete
+INFO 2020-10-23 20:13:58,951 crm关闭成功
+INFO 2020-10-23 20:13:58,952 crm quite
+INFO 2020-10-23 20:14:02,593 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:14:02,668 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:14:02,727 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:14:02,783 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:14:02,785 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:14:02,786 case04 complete
+INFO 2020-10-23 20:14:07,885 crm关闭成功
+INFO 2020-10-23 20:14:07,886 crm quite
+INFO 2020-10-23 20:14:11,561 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:14:11,616 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:14:11,680 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:14:11,727 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:14:11,729 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:14:16,830 crm关闭成功
+INFO 2020-10-23 20:14:16,831 crm quite
+INFO 2020-10-23 20:15:25,920 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:15:26,002 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:15:26,082 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:15:26,483 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:15:27,490 title:客户关系管理系统
+INFO 2020-10-23 20:15:27,491 case01 complete
+INFO 2020-10-23 20:15:32,607 crm关闭成功
+INFO 2020-10-23 20:15:32,608 crm quite
+INFO 2020-10-23 20:15:36,323 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:15:36,407 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:15:36,478 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:15:36,632 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:15:36,635 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:15:36,635 case02 complete
+INFO 2020-10-23 20:15:41,750 crm关闭成功
+INFO 2020-10-23 20:15:41,751 crm quite
+INFO 2020-10-23 20:15:45,491 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:15:45,550 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:15:45,632 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:15:45,689 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:15:45,691 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:15:45,692 case03 complete
+INFO 2020-10-23 20:15:50,802 crm关闭成功
+INFO 2020-10-23 20:15:50,803 crm quite
+INFO 2020-10-23 20:15:54,554 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:15:54,631 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:15:54,691 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:15:54,744 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:15:54,747 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:15:54,748 case04 complete
+INFO 2020-10-23 20:15:59,856 crm关闭成功
+INFO 2020-10-23 20:15:59,856 crm quite
+INFO 2020-10-23 20:16:03,536 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:16:03,603 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:16:03,664 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:16:03,720 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:16:03,723 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:16:03,723 case05 complete
+INFO 2020-10-23 20:16:08,838 crm关闭成功
+INFO 2020-10-23 20:16:08,839 crm quite
+INFO 2020-10-23 20:16:51,632 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:16:51,710 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:16:51,788 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:16:52,200 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:16:53,206 title:客户关系管理系统
+INFO 2020-10-23 20:16:53,206 case01 complete
+INFO 2020-10-23 20:16:58,495 crm关闭成功
+INFO 2020-10-23 20:16:58,496 crm quite
+INFO 2020-10-23 20:17:02,240 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:17:02,316 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:17:02,391 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:17:02,580 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:17:02,583 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:17:02,583 case02 complete
+INFO 2020-10-23 20:17:07,687 crm关闭成功
+INFO 2020-10-23 20:17:07,687 crm quite
+INFO 2020-10-23 20:17:11,349 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:17:11,413 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:17:11,485 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:17:11,532 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:17:11,534 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:17:11,535 case03 complete
+INFO 2020-10-23 20:17:16,644 crm关闭成功
+INFO 2020-10-23 20:17:16,645 crm quite
+INFO 2020-10-23 20:17:20,296 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:17:20,371 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:17:20,434 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:17:20,488 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:17:20,491 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:17:20,491 case04 complete
+INFO 2020-10-23 20:17:25,603 crm关闭成功
+INFO 2020-10-23 20:17:25,603 crm quite
+INFO 2020-10-23 20:17:29,387 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:17:29,461 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:17:29,515 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:17:29,573 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:17:29,576 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:17:29,576 case05 complete
+INFO 2020-10-23 20:17:34,665 crm关闭成功
+INFO 2020-10-23 20:17:34,665 crm quite
+INFO 2020-10-23 20:19:01,881 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:19:01,965 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:19:02,036 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:19:02,430 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:19:03,438 title:客户关系管理系统
+INFO 2020-10-23 20:19:03,439 case01 complete
+INFO 2020-10-23 20:19:08,567 crm关闭成功
+INFO 2020-10-23 20:19:08,567 crm quite
+INFO 2020-10-23 20:19:12,253 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:19:12,337 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:19:12,413 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-23 20:19:12,591 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:19:12,593 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-23 20:19:12,594 case02 complete
+INFO 2020-10-23 20:19:18,180 crm关闭成功
+INFO 2020-10-23 20:19:18,181 crm quite
+INFO 2020-10-23 20:19:21,886 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:19:21,955 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:19:22,035 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-23 20:19:22,088 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:19:22,090 Alert:- 用户名不能为空!
+
+INFO 2020-10-23 20:19:22,090 case03 complete
+INFO 2020-10-23 20:19:27,185 crm关闭成功
+INFO 2020-10-23 20:19:27,186 crm quite
+INFO 2020-10-23 20:19:30,876 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:19:30,957 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-23 20:19:31,017 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:19:31,071 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:19:31,074 Alert:- 密码不能为空!
+
+INFO 2020-10-23 20:19:31,075 case04 complete
+INFO 2020-10-23 20:19:36,189 crm关闭成功
+INFO 2020-10-23 20:19:36,189 crm quite
+INFO 2020-10-23 20:19:39,861 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-23 20:19:39,929 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-23 20:19:39,984 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-23 20:19:40,033 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-23 20:19:40,035 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-23 20:19:40,036 case05 complete
+INFO 2020-10-23 20:19:45,144 crm关闭成功
+INFO 2020-10-23 20:19:45,479 crm quite

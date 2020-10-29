@@ -1,0 +1,35 @@
+﻿LoginPage:
+  username : //input[@name='userNum']
+  password : //input[@name='userPw']
+  submit: //input[@id='in1']
+FrameId:
+  top: topFrame
+
+FrameName:
+  main: mainFrame
+
+CustomerPage:
+  customermsg: //div/a[text()='客户信息']
+  customeradd: //input[@value='添加']
+
+CustomerAddPage:
+  name: //input[@name='customerName']
+  job: //input[@name='customerJob']
+  sexman: //input[@value='男']
+  sexwoman: //input[@value='女']
+  birthday: customerBirthday
+  mobile: //input[@name='customerMobile']
+  address: //input[@name='customerAddress']
+  addman: //input[@name='customerAddMan']
+  tel: //input[@name='customerTel']
+  company: //input[@name='customerCompany']
+  source: //select[@name='customerSource']
+  type: //select[@name='customerType']
+  email: //input[@name='customerEmail']
+  condition: //select[@name='customerCondition']
+  qq: //input[@name='customerQq']
+  changeman: //input[@name='customerChangeMan']
+  blog: //input[@name='customerBlog']
+  msn: //input[@name='customerMsn']
+  remark: //textarea[@name='customerRemark']
+  submit: //input[@name='submit']

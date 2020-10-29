@@ -1,0 +1,214 @@
+ERROR 2020-10-28 10:34:13,750 module 'socket' has no attribute 'AF_UNIX'
+ERROR 2020-10-28 10:34:13,762 module 'socket' has no attribute 'AF_UNIX'
+ERROR 2020-10-28 10:34:39,752 module 'socket' has no attribute 'AF_UNIX'
+ERROR 2020-10-28 10:34:39,763 module 'socket' has no attribute 'AF_UNIX'
+ERROR 2020-10-28 10:46:43,633 module 'socket' has no attribute 'AF_UNIX'
+ERROR 2020-10-28 10:46:43,644 module 'socket' has no attribute 'AF_UNIX'
+INFO 2020-10-28 14:14:00,342 database:crm 连接
+INFO 2020-10-28 14:14:00,505 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 14:14:06,557 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-28 14:14:06,562 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-28 14:14:06,656 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-28 14:14:06,657 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-28 14:14:06,726 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-28 14:14:06,726 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-28 14:14:07,105 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-28 14:14:08,136 frame:topFrame 切换成功！
+INFO 2020-10-28 14:14:09,136 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-28 14:14:09,250 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-28 14:14:10,255 frame切换到default成功！
+INFO 2020-10-28 14:14:42,339 frame:mainFrame 切换成功！
+INFO 2020-10-28 14:14:43,340 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-28 14:14:44,131 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-28 14:14:44,132 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-28 14:14:44,214 xpth://input[@name='customerName'] 添加:小陈 成功
+INFO 2020-10-28 14:14:44,215 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-28 14:14:44,284 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-28 14:14:44,284 yaml:customerBirthday 读取成功
+INFO 2020-10-28 14:14:44,288 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-28 14:14:44,289 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-28 14:14:44,348 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-28 14:14:44,348 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-28 14:14:44,403 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-28 14:14:44,404 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-28 14:14:44,591 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-28 14:14:44,592 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-28 14:14:44,795 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-28 14:14:44,796 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-28 14:14:44,865 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-28 14:14:44,865 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-28 14:14:44,936 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-28 14:14:44,936 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-28 14:14:44,999 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-28 14:14:44,999 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-28 14:14:45,086 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-28 14:14:45,086 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-28 14:14:45,175 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-28 14:14:45,175 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-28 14:14:45,268 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-28 14:14:45,269 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-28 14:14:45,351 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-28 14:14:45,351 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-28 14:14:45,423 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-28 14:14:45,423 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-28 14:14:45,484 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-28 14:14:45,484 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-28 14:14:45,545 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-28 14:14:45,545 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-28 14:14:45,767 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-28 14:14:45,770 Alert:客户添加成功
+INFO 2020-10-28 14:14:52,228 quit！
+INFO 2020-10-28 14:14:52,623 database:crm 连接
+INFO 2020-10-28 14:14:52,764 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 14:14:58,967 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-28 14:14:58,975 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-28 14:14:59,086 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-28 14:14:59,087 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-28 14:14:59,172 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-28 14:14:59,173 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-28 14:14:59,945 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-28 14:15:00,975 frame:topFrame 切换成功！
+INFO 2020-10-28 14:15:01,975 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-28 14:15:02,079 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-28 14:15:03,088 frame切换到default成功！
+INFO 2020-10-28 14:15:35,163 frame:mainFrame 切换成功！
+INFO 2020-10-28 14:15:36,164 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-28 14:15:37,339 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-28 14:15:37,339 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-28 14:15:37,427 xpth://input[@name='customerName'] 添加:小林 成功
+INFO 2020-10-28 14:15:37,428 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-28 14:15:37,497 xpth://input[@name='customerJob'] 添加:老板 成功
+INFO 2020-10-28 14:15:37,497 yaml://input[@value='女'] 读取成功
+INFO 2020-10-28 14:15:37,588 xpth://input[@value='女'] 点击成功
+INFO 2020-10-28 14:15:37,588 yaml:customerBirthday 读取成功
+INFO 2020-10-28 14:15:37,593 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-28 14:15:37,594 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-28 14:15:37,682 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-28 14:15:37,683 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-28 14:15:37,741 xpth://input[@name='customerAddress'] 添加:成都 成功
+INFO 2020-10-28 14:15:37,741 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-28 14:15:37,794 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-28 14:15:37,794 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-28 14:15:37,857 xpth://input[@name='customerTel'] 添加:7654321 成功
+INFO 2020-10-28 14:15:37,857 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-28 14:15:37,911 xpth://input[@name='customerCompany'] 添加:华为 成功
+INFO 2020-10-28 14:15:37,911 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-28 14:15:37,973 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-28 14:15:37,974 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-28 14:15:38,037 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-28 14:15:38,038 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-28 14:15:38,110 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-28 14:15:38,110 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-28 14:15:38,197 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-28 14:15:38,198 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-28 14:15:38,254 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-28 14:15:38,254 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-28 14:15:38,305 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-28 14:15:38,306 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-28 14:15:38,361 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-28 14:15:38,361 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-28 14:15:38,427 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-28 14:15:38,427 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-28 14:15:38,483 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-28 14:15:38,484 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-28 14:15:38,641 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-28 14:15:38,645 Alert:客户添加成功
+INFO 2020-10-28 14:15:44,816 quit！
+INFO 2020-10-28 16:08:44,374 database:crm 连接
+INFO 2020-10-28 16:08:44,491 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 16:46:00,749 database:crm 连接
+INFO 2020-10-28 16:46:00,840 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 16:46:03,592 database:crm 连接
+INFO 2020-10-28 16:46:03,669 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 16:49:46,234 database:crm 连接
+INFO 2020-10-28 16:49:46,797 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 16:49:50,013 database:crm 连接
+INFO 2020-10-28 16:49:50,296 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 16:49:54,428 database:crm 连接
+INFO 2020-10-28 16:49:54,513 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 16:49:58,375 database:crm 连接
+INFO 2020-10-28 16:49:58,516 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 16:51:00,805 database:crm 连接
+INFO 2020-10-28 16:51:00,903 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 16:51:03,698 database:crm 连接
+INFO 2020-10-28 16:51:03,808 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 16:52:34,580 database:crm 连接
+INFO 2020-10-28 16:52:34,842 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 16:52:37,690 database:crm 连接
+INFO 2020-10-28 16:52:37,819 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 16:59:25,596 database:crm 连接
+INFO 2020-10-28 16:59:25,679 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 16:59:28,413 database:crm 连接
+INFO 2020-10-28 16:59:28,496 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:03:11,014 database:crm 连接
+INFO 2020-10-28 17:03:11,114 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:03:11,307 database:crm 连接
+INFO 2020-10-28 17:03:11,390 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:03:12,774 database:crm 连接
+INFO 2020-10-28 17:03:12,856 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:03:13,080 database:crm 连接
+INFO 2020-10-28 17:03:13,177 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:04:32,885 database:crm 连接
+INFO 2020-10-28 17:04:32,968 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:04:33,145 database:crm 连接
+INFO 2020-10-28 17:04:33,236 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:04:35,913 database:crm 连接
+INFO 2020-10-28 17:04:36,002 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:04:36,169 database:crm 连接
+INFO 2020-10-28 17:04:36,245 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:04:54,620 database:crm 连接
+INFO 2020-10-28 17:04:54,706 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:04:54,873 database:crm 连接
+INFO 2020-10-28 17:04:54,951 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:04:56,628 database:crm 连接
+INFO 2020-10-28 17:04:56,712 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:04:56,881 database:crm 连接
+INFO 2020-10-28 17:04:56,963 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:04:58,342 database:crm 连接
+INFO 2020-10-28 17:04:58,421 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:04:58,591 database:crm 连接
+INFO 2020-10-28 17:04:58,671 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:06:46,887 database:crm 连接
+INFO 2020-10-28 17:06:46,981 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:06:47,163 database:crm 连接
+INFO 2020-10-28 17:06:47,267 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:06:48,800 database:crm 连接
+INFO 2020-10-28 17:06:48,883 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:06:49,059 database:crm 连接
+INFO 2020-10-28 17:06:49,146 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:06:50,507 database:crm 连接
+INFO 2020-10-28 17:06:50,589 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:06:50,772 database:crm 连接
+INFO 2020-10-28 17:06:50,856 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:07:10,121 database:crm 连接
+INFO 2020-10-28 17:07:10,213 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:07:10,392 database:crm 连接
+INFO 2020-10-28 17:07:10,469 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 17:07:11,907 database:crm 连接
+INFO 2020-10-28 17:07:11,985 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 17:07:12,168 database:crm 连接
+INFO 2020-10-28 17:07:12,248 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 19:10:38,546 database:crm 连接
+INFO 2020-10-28 19:10:38,625 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 19:10:38,822 database:crm 连接
+INFO 2020-10-28 19:10:38,908 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 19:10:48,174 database:crm 连接
+INFO 2020-10-28 19:10:48,271 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 19:10:48,437 database:crm 连接
+INFO 2020-10-28 19:10:48,515 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 19:10:49,936 database:crm 连接
+INFO 2020-10-28 19:10:50,022 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 19:10:50,199 database:crm 连接
+INFO 2020-10-28 19:10:50,282 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 19:10:51,612 database:crm 连接
+INFO 2020-10-28 19:10:51,691 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 19:10:51,870 database:crm 连接
+INFO 2020-10-28 19:10:51,954 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 19:10:54,286 database:crm 连接
+INFO 2020-10-28 19:10:54,365 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 19:10:54,545 database:crm 连接
+INFO 2020-10-28 19:10:54,628 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行
+INFO 2020-10-28 19:19:42,635 database:crm 连接
+INFO 2020-10-28 19:19:42,721 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小陈' 执行
+INFO 2020-10-28 19:19:42,904 database:crm 连接
+INFO 2020-10-28 19:19:42,986 sql:DELETE FROM crm.`customer_info`WHERE customer_name='小林' 执行

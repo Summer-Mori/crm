@@ -1,0 +1,675 @@
+INFO 2020-10-26 16:09:20,038 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:09:20,045 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:09:20,125 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:09:20,126 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:09:20,197 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:09:20,198 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:09:20,624 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:09:21,629 title:客户关系管理系统
+INFO 2020-10-26 16:09:21,630 case01 complete
+INFO 2020-10-26 16:09:27,799 crm quite
+INFO 2020-10-26 16:09:33,725 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:09:33,730 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:09:33,828 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:09:33,829 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:09:33,914 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-26 16:09:33,915 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:09:34,099 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:09:34,104 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-26 16:09:34,105 case02 complete
+INFO 2020-10-26 16:09:40,243 crm quite
+INFO 2020-10-26 16:09:46,170 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:09:46,174 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:09:46,245 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 16:09:46,246 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:09:46,325 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:09:46,326 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:09:46,381 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:09:46,385 Alert:- 用户名不能为空!
+
+INFO 2020-10-26 16:09:46,386 case03 complete
+INFO 2020-10-26 16:09:53,344 crm quite
+INFO 2020-10-26 16:09:59,550 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:09:59,555 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:09:59,636 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:09:59,636 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:09:59,701 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 16:09:59,702 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:09:59,756 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:09:59,759 Alert:- 密码不能为空!
+
+INFO 2020-10-26 16:09:59,760 case04 complete
+INFO 2020-10-26 16:10:05,898 crm quite
+INFO 2020-10-26 16:10:11,798 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:10:11,803 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:10:11,874 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 16:10:11,875 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:10:11,934 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 16:10:11,934 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:10:11,983 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:10:11,986 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-26 16:10:11,986 case05 complete
+INFO 2020-10-26 16:10:18,126 crm quite
+INFO 2020-10-26 16:30:02,934 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:30:02,939 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:30:03,015 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:30:03,016 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:30:03,086 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:30:03,086 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:30:03,538 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:30:03,663 url:http://www.summermori.icu:8080/crm 打开！
+ERROR 2020-10-26 16:30:12,570 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-26 16:30:12,581 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-26 16:30:13,583 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-26 16:30:14,585 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-26 16:30:14,587 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,588 yaml://input[@name='customerName'] 读取成功
+ERROR 2020-10-26 16:30:14,589 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,590 yaml://input[@name='customerJob'] 读取成功
+ERROR 2020-10-26 16:30:14,592 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,592 yaml://input[@value='女'] 读取成功
+ERROR 2020-10-26 16:30:14,594 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,594 yaml:customerBirthday 读取成功
+ERROR 2020-10-26 16:30:14,596 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,596 yaml://input[@name='customerMobile'] 读取成功
+ERROR 2020-10-26 16:30:14,599 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,599 yaml://input[@name='customerAddress'] 读取成功
+ERROR 2020-10-26 16:30:14,601 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,601 yaml://input[@name='customerAddMan'] 读取成功
+ERROR 2020-10-26 16:30:14,602 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,603 yaml://input[@name='customerTel'] 读取成功
+ERROR 2020-10-26 16:30:14,604 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,605 yaml://input[@name='customerCompany'] 读取成功
+ERROR 2020-10-26 16:30:14,606 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,607 yaml://select[@name='customerSource'] 读取成功
+ERROR 2020-10-26 16:30:14,610 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,610 yaml://select[@name='customerType'] 读取成功
+ERROR 2020-10-26 16:30:14,612 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,613 yaml://input[@name='customerEmail'] 读取成功
+ERROR 2020-10-26 16:30:14,615 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,615 yaml://select[@name='customerCondition'] 读取成功
+ERROR 2020-10-26 16:30:14,616 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,617 yaml://input[@name='customerQq'] 读取成功
+ERROR 2020-10-26 16:30:14,618 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,619 yaml://input[@name='customerChangeMan'] 读取成功
+ERROR 2020-10-26 16:30:14,620 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,621 yaml://input[@name='customerBlog'] 读取成功
+ERROR 2020-10-26 16:30:14,622 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,622 yaml://input[@name='customerMsn'] 读取成功
+ERROR 2020-10-26 16:30:14,624 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,624 yaml://textarea[@name='customerRemark'] 读取成功
+ERROR 2020-10-26 16:30:14,626 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:30:14,626 yaml://input[@name='submit'] 读取成功
+ERROR 2020-10-26 16:30:14,627 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-26 16:30:14,629 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-26 16:33:44,103 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:33:44,107 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:33:44,191 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:33:44,192 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:33:44,264 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:33:44,264 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:33:44,820 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:33:44,964 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:33:54,451 frame:topFrame 切换成功！
+INFO 2020-10-26 16:33:55,566 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-26 16:33:56,572 frame切换到default成功！
+INFO 2020-10-26 16:34:28,656 frame:mainFrame 切换成功！
+INFO 2020-10-26 16:34:30,256 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-26 16:34:30,257 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-26 16:34:30,358 xpth://input[@name='customerName'] 添加:cl04 成功
+INFO 2020-10-26 16:34:30,358 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-26 16:34:30,430 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-26 16:34:30,430 yaml://input[@value='女'] 读取成功
+INFO 2020-10-26 16:34:30,507 xpth://input[@value='女'] 点击成功
+INFO 2020-10-26 16:34:30,508 yaml:customerBirthday 读取成功
+INFO 2020-10-26 16:34:30,512 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-26 16:34:30,512 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-26 16:34:30,567 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-26 16:34:30,567 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-26 16:34:30,615 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-26 16:34:30,615 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-26 16:34:30,663 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-26 16:34:30,663 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-26 16:34:30,720 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-26 16:34:30,721 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-26 16:34:30,776 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-26 16:34:30,776 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-26 16:34:30,834 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-26 16:34:30,834 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-26 16:34:30,934 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-26 16:34:30,935 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-26 16:34:31,038 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-26 16:34:31,039 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-26 16:34:31,092 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-26 16:34:31,092 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-26 16:34:31,168 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-26 16:34:31,169 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-26 16:34:31,223 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-26 16:34:31,224 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-26 16:34:31,274 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-26 16:34:31,275 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-26 16:34:31,336 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-26 16:34:31,337 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-26 16:34:31,392 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-26 16:34:31,392 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-26 16:34:31,554 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-26 16:34:31,558 Alert:客户添加成功
+INFO 2020-10-26 16:35:11,604 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:35:11,609 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:35:11,689 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:35:11,689 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:35:11,759 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:35:11,759 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:35:12,217 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:35:13,251 frame:topFrame 切换成功！
+INFO 2020-10-26 16:35:14,341 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-26 16:35:15,346 frame切换到default成功！
+INFO 2020-10-26 16:35:47,394 frame:mainFrame 切换成功！
+INFO 2020-10-26 16:35:49,773 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-26 16:35:49,773 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-26 16:35:49,854 xpth://input[@name='customerName'] 添加:cl04 成功
+INFO 2020-10-26 16:35:49,855 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-26 16:35:49,922 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-26 16:35:49,922 yaml://input[@value='女'] 读取成功
+INFO 2020-10-26 16:35:49,999 xpth://input[@value='女'] 点击成功
+INFO 2020-10-26 16:35:49,999 yaml:customerBirthday 读取成功
+INFO 2020-10-26 16:35:50,003 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-26 16:35:50,004 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-26 16:35:50,090 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-26 16:35:50,091 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-26 16:35:50,153 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-26 16:35:50,153 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-26 16:35:50,214 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-26 16:35:50,214 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-26 16:35:50,281 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-26 16:35:50,282 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-26 16:35:50,340 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-26 16:35:50,341 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-26 16:35:50,392 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-26 16:35:50,393 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-26 16:35:50,462 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-26 16:35:50,462 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-26 16:35:50,556 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-26 16:35:50,556 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-26 16:35:50,615 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-26 16:35:50,615 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-26 16:35:50,684 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-26 16:35:50,685 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-26 16:35:50,733 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-26 16:35:50,733 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-26 16:35:50,795 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-26 16:35:50,796 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-26 16:35:50,866 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-26 16:35:50,867 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-26 16:35:50,931 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-26 16:35:50,932 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-26 16:35:51,118 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-26 16:35:51,121 Alert:客户添加成功
+INFO 2020-10-26 16:39:19,842 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:39:19,846 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:39:19,930 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:39:19,931 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:39:20,006 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:39:20,006 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:39:20,529 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:39:21,563 frame:topFrame 切换成功！
+INFO 2020-10-26 16:39:22,655 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-26 16:39:23,661 frame切换到default成功！
+INFO 2020-10-26 16:39:55,722 frame:mainFrame 切换成功！
+INFO 2020-10-26 16:39:57,797 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-26 16:39:57,797 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-26 16:39:57,881 xpth://input[@name='customerName'] 添加:cl04 成功
+INFO 2020-10-26 16:39:57,882 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-26 16:39:57,947 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-26 16:39:57,948 yaml://input[@value='女'] 读取成功
+INFO 2020-10-26 16:39:58,024 xpth://input[@value='女'] 点击成功
+INFO 2020-10-26 16:39:58,024 yaml:customerBirthday 读取成功
+INFO 2020-10-26 16:39:58,031 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-26 16:39:58,032 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-26 16:39:58,114 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-26 16:39:58,115 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-26 16:39:58,178 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-26 16:39:58,179 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-26 16:39:58,239 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-26 16:39:58,240 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-26 16:39:58,314 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-26 16:39:58,314 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-26 16:39:58,373 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-26 16:39:58,374 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-26 16:39:58,434 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-26 16:39:58,434 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-26 16:39:58,498 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-26 16:39:58,499 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-26 16:39:58,593 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-26 16:39:58,593 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-26 16:39:58,660 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-26 16:39:58,660 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-26 16:39:58,733 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-26 16:39:58,733 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-26 16:39:58,794 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-26 16:39:58,795 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-26 16:39:58,860 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-26 16:39:58,861 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-26 16:39:58,933 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-26 16:39:58,933 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-26 16:39:58,998 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-26 16:39:58,998 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-26 16:39:59,142 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-26 16:39:59,144 Alert:客户添加成功
+INFO 2020-10-26 16:41:32,163 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:41:32,168 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:41:32,246 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:41:32,246 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:41:32,327 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:41:32,327 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:41:32,778 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:41:33,784 title:客户关系管理系统
+INFO 2020-10-26 16:41:33,785 case01 complete
+INFO 2020-10-26 16:41:39,949 quit！
+INFO 2020-10-26 16:41:39,950 crm quite
+INFO 2020-10-26 16:41:45,950 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:41:45,955 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:41:46,031 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:41:46,031 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:41:46,107 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-26 16:41:46,107 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:41:46,381 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:41:46,383 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-26 16:41:46,383 case02 complete
+INFO 2020-10-26 16:41:52,508 quit！
+INFO 2020-10-26 16:41:52,509 crm quite
+INFO 2020-10-26 16:41:58,331 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:41:58,337 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:41:58,403 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 16:41:58,403 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:41:58,488 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:41:58,489 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:41:58,543 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:41:58,545 Alert:- 用户名不能为空!
+
+INFO 2020-10-26 16:41:58,546 case03 complete
+INFO 2020-10-26 16:42:04,658 quit！
+INFO 2020-10-26 16:42:04,659 crm quite
+INFO 2020-10-26 16:42:10,506 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:42:10,510 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:42:10,599 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:42:10,599 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:42:10,662 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 16:42:10,662 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:42:10,716 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:42:10,719 Alert:- 密码不能为空!
+
+INFO 2020-10-26 16:42:10,719 case04 complete
+INFO 2020-10-26 16:42:16,846 quit！
+INFO 2020-10-26 16:42:16,847 crm quite
+INFO 2020-10-26 16:42:22,785 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:42:22,789 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:42:22,854 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 16:42:22,854 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:42:22,926 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 16:42:22,926 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:42:22,988 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:42:22,990 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-26 16:42:22,991 case05 complete
+INFO 2020-10-26 16:42:29,118 quit！
+INFO 2020-10-26 16:42:29,119 crm quite
+INFO 2020-10-26 16:45:00,550 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:45:00,556 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:45:00,637 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:45:00,638 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:45:00,705 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:45:00,705 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:45:01,336 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:45:02,341 title:客户关系管理系统
+INFO 2020-10-26 16:45:02,342 case01 complete
+INFO 2020-10-26 16:45:08,465 quit！
+INFO 2020-10-26 16:45:08,465 crm quite
+INFO 2020-10-26 16:45:16,999 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:45:17,004 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:45:17,089 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:45:17,089 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:45:17,166 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-26 16:45:17,166 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:45:17,726 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:45:17,731 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-26 16:45:17,732 case02 complete
+INFO 2020-10-26 16:45:24,245 quit！
+INFO 2020-10-26 16:45:24,245 crm quite
+INFO 2020-10-26 16:45:30,235 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:45:30,239 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:45:30,301 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 16:45:30,302 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:45:30,374 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:45:30,374 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:45:30,423 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:45:30,425 Alert:- 用户名不能为空!
+
+INFO 2020-10-26 16:45:30,426 case03 complete
+INFO 2020-10-26 16:45:36,555 quit！
+INFO 2020-10-26 16:45:36,556 crm quite
+INFO 2020-10-26 16:45:42,703 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:45:42,709 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:45:42,786 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:45:42,786 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:45:42,852 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 16:45:42,853 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:45:42,907 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:45:42,910 Alert:- 密码不能为空!
+
+INFO 2020-10-26 16:45:42,910 case04 complete
+INFO 2020-10-26 16:45:49,044 quit！
+INFO 2020-10-26 16:45:49,044 crm quite
+INFO 2020-10-26 16:45:54,976 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:45:54,980 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:45:55,049 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 16:45:55,049 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:45:55,110 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 16:45:55,111 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:45:55,162 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:45:55,165 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-26 16:45:55,165 case05 complete
+INFO 2020-10-26 16:46:01,293 quit！
+INFO 2020-10-26 16:46:01,293 crm quite
+INFO 2020-10-26 16:46:13,087 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:46:13,092 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:46:13,174 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:46:13,174 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:46:13,245 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:46:13,245 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:46:14,237 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:46:15,272 frame:topFrame 切换成功！
+INFO 2020-10-26 16:46:16,362 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-26 16:46:17,367 frame切换到default成功！
+INFO 2020-10-26 16:46:49,432 frame:mainFrame 切换成功！
+INFO 2020-10-26 16:46:51,631 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-26 16:46:51,631 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-26 16:46:51,715 xpth://input[@name='customerName'] 添加:cl04 成功
+INFO 2020-10-26 16:46:51,716 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-26 16:46:51,782 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-26 16:46:51,783 yaml://input[@value='女'] 读取成功
+INFO 2020-10-26 16:46:51,863 xpth://input[@value='女'] 点击成功
+INFO 2020-10-26 16:46:51,864 yaml:customerBirthday 读取成功
+INFO 2020-10-26 16:46:51,869 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-26 16:46:51,869 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-26 16:46:51,951 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-26 16:46:51,951 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-26 16:46:52,012 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-26 16:46:52,012 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-26 16:46:52,071 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-26 16:46:52,072 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-26 16:46:52,142 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-26 16:46:52,142 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-26 16:46:52,204 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-26 16:46:52,205 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-26 16:46:52,263 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-26 16:46:52,264 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-26 16:46:52,327 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-26 16:46:52,328 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-26 16:46:52,416 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-26 16:46:52,416 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-26 16:46:52,480 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-26 16:46:52,481 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-26 16:46:52,558 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-26 16:46:52,558 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-26 16:46:52,621 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-26 16:46:52,622 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-26 16:46:52,684 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-26 16:46:52,685 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-26 16:46:52,755 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-26 16:46:52,755 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-26 16:46:52,818 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-26 16:46:52,818 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-26 16:46:53,064 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-26 16:46:53,067 Alert:客户添加成功
+INFO 2020-10-26 16:46:59,229 quit！
+INFO 2020-10-26 16:54:46,233 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 16:54:46,238 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 16:54:46,326 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 16:54:46,327 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 16:54:46,403 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 16:54:46,404 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 16:54:48,112 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 16:54:49,145 frame:topFrame 切换成功！
+INFO 2020-10-26 16:54:50,146 yaml://div/a[text()='客户信息'] 读取成功
+INFO 2020-10-26 16:54:50,235 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-26 16:54:51,240 frame切换到default成功！
+INFO 2020-10-26 16:55:23,311 frame:mainFrame 切换成功！
+INFO 2020-10-26 16:55:24,312 yaml://input[@value='添加'] 读取成功
+INFO 2020-10-26 16:55:24,966 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-26 16:55:24,967 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-26 16:55:25,052 xpth://input[@name='customerName'] 添加:cl04 成功
+INFO 2020-10-26 16:55:25,053 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-26 16:55:25,119 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-26 16:55:25,120 yaml://input[@value='女'] 读取成功
+INFO 2020-10-26 16:55:25,199 xpth://input[@value='女'] 点击成功
+INFO 2020-10-26 16:55:25,199 yaml:customerBirthday 读取成功
+INFO 2020-10-26 16:55:25,205 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-26 16:55:25,205 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-26 16:55:25,295 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-26 16:55:25,296 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-26 16:55:25,354 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-26 16:55:25,354 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-26 16:55:25,412 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-26 16:55:25,413 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-26 16:55:25,481 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-26 16:55:25,482 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-26 16:55:25,544 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-26 16:55:25,545 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-26 16:55:25,596 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-26 16:55:25,597 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-26 16:55:25,660 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-26 16:55:25,661 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-26 16:55:25,749 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-26 16:55:25,749 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-26 16:55:25,812 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-26 16:55:25,813 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-26 16:55:25,884 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-26 16:55:25,885 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-26 16:55:25,941 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-26 16:55:25,941 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-26 16:55:26,003 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-26 16:55:26,003 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-26 16:55:26,069 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-26 16:55:26,070 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-26 16:55:26,132 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-26 16:55:26,132 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-26 16:55:26,557 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-26 16:55:26,560 Alert:客户添加成功
+INFO 2020-10-26 16:55:32,694 quit！
+INFO 2020-10-26 17:05:17,851 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:05:17,855 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:05:17,936 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 17:05:17,937 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:05:18,001 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 17:05:18,002 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:05:18,456 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:05:19,461 title:客户关系管理系统
+INFO 2020-10-26 17:05:19,461 case01 complete
+INFO 2020-10-26 17:05:25,602 quit！
+INFO 2020-10-26 17:05:25,603 crm quite
+INFO 2020-10-26 17:05:31,453 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:05:31,460 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:05:31,546 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 17:05:31,547 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:05:31,624 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-26 17:05:31,625 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:05:31,786 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:05:31,789 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-26 17:05:31,789 case02 complete
+INFO 2020-10-26 17:05:38,347 quit！
+INFO 2020-10-26 17:05:38,347 crm quite
+INFO 2020-10-26 17:05:44,213 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:05:44,218 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:05:44,286 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 17:05:44,287 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:05:44,364 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 17:05:44,365 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:05:44,421 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:05:44,423 Alert:- 用户名不能为空!
+
+INFO 2020-10-26 17:05:44,424 case03 complete
+INFO 2020-10-26 17:05:52,083 quit！
+INFO 2020-10-26 17:05:52,084 crm quite
+INFO 2020-10-26 17:05:57,916 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:05:57,923 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:05:58,004 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 17:05:58,004 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:05:58,068 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 17:05:58,068 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:05:58,124 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:05:58,126 Alert:- 密码不能为空!
+
+INFO 2020-10-26 17:05:58,127 case04 complete
+INFO 2020-10-26 17:06:04,255 quit！
+INFO 2020-10-26 17:06:04,256 crm quite
+INFO 2020-10-26 17:06:10,067 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:06:10,071 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:06:10,139 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 17:06:10,140 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:06:10,203 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 17:06:10,204 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:06:10,259 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:06:10,262 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-26 17:06:16,874 quit！
+INFO 2020-10-26 17:06:16,874 crm quite
+INFO 2020-10-26 17:06:46,237 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:06:46,243 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:06:46,319 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 17:06:46,319 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:06:46,394 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 17:06:46,394 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:06:46,840 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:06:47,846 title:客户关系管理系统
+INFO 2020-10-26 17:06:47,847 case01 complete
+INFO 2020-10-26 17:06:55,115 quit！
+INFO 2020-10-26 17:06:55,116 crm quite
+INFO 2020-10-26 17:07:00,973 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:07:00,978 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:07:01,061 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 17:07:01,061 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:07:01,139 xpth://input[@name='userPw'] 添加:654321 成功
+INFO 2020-10-26 17:07:01,140 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:07:01,313 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:07:01,318 Alert:用户或密码错误！请重新输入！
+INFO 2020-10-26 17:07:01,318 case02 complete
+INFO 2020-10-26 17:07:07,440 quit！
+INFO 2020-10-26 17:07:07,441 crm quite
+INFO 2020-10-26 17:07:13,251 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:07:13,257 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:07:13,313 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 17:07:13,313 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:07:13,392 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-26 17:07:13,392 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:07:13,440 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:07:13,442 Alert:- 用户名不能为空!
+
+INFO 2020-10-26 17:07:13,442 case03 complete
+INFO 2020-10-26 17:07:19,570 quit！
+INFO 2020-10-26 17:07:19,570 crm quite
+INFO 2020-10-26 17:07:25,426 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:07:25,431 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:07:25,512 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-26 17:07:25,512 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:07:25,571 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 17:07:25,571 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:07:25,617 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:07:25,619 Alert:- 密码不能为空!
+
+INFO 2020-10-26 17:07:25,619 case04 complete
+INFO 2020-10-26 17:07:31,752 quit！
+INFO 2020-10-26 17:07:31,752 crm quite
+INFO 2020-10-26 17:07:37,677 url:http://www.summermori.icu:8080/crm 打开！
+INFO 2020-10-26 17:07:37,684 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-26 17:07:37,750 xpth://input[@name='userNum'] 添加: 成功
+INFO 2020-10-26 17:07:37,751 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-26 17:07:37,811 xpth://input[@name='userPw'] 添加: 成功
+INFO 2020-10-26 17:07:37,812 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-26 17:07:37,868 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-26 17:07:37,870 Alert:- 用户名不能为空!
+- 密码不能为空!
+
+INFO 2020-10-26 17:07:43,987 quit！
+INFO 2020-10-26 17:07:43,988 crm quite

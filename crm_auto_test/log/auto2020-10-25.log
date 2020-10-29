@@ -1,0 +1,301 @@
+INFO 2020-10-25 13:37:18,164 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 13:37:18,253 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 13:37:18,331 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 13:37:20,364 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 13:37:20,365 用户:admin 登陆成功
+INFO 2020-10-25 13:37:21,400 frame:topFrame 切换成功！
+INFO 2020-10-25 13:37:22,487 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 13:37:23,491 frame切换到default成功！
+INFO 2020-10-25 13:37:55,563 frame:mainFrame 切换成功！
+INFO 2020-10-25 13:37:57,135 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 13:37:57,207 xpth://input[@name='customerName'] 添加:cl01 成功
+INFO 2020-10-25 13:38:02,294 crm关闭成功
+INFO 2020-10-25 13:39:36,046 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 13:39:36,129 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 13:39:36,205 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 13:39:36,803 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 13:39:36,804 用户:admin 登陆成功
+INFO 2020-10-25 13:39:37,837 frame:topFrame 切换成功！
+INFO 2020-10-25 13:39:38,926 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 13:39:39,930 frame切换到default成功！
+INFO 2020-10-25 13:40:11,994 frame:mainFrame 切换成功！
+INFO 2020-10-25 13:40:14,445 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 13:40:14,528 xpth://input[@name='customerName'] 添加:cl01 成功
+INFO 2020-10-25 13:40:20,318 crm关闭成功
+INFO 2020-10-25 13:40:39,735 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 13:40:39,819 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 13:40:39,890 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 13:40:40,571 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 13:40:40,572 用户:admin 登陆成功
+INFO 2020-10-25 13:40:41,605 frame:topFrame 切换成功！
+INFO 2020-10-25 13:40:42,694 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 13:40:43,698 frame切换到default成功！
+INFO 2020-10-25 13:41:15,789 frame:mainFrame 切换成功！
+INFO 2020-10-25 13:41:19,399 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 13:41:19,481 xpth://input[@name='customerName'] 添加:cl01 成功
+INFO 2020-10-25 13:41:19,547 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-25 13:41:19,626 xpth://input[@value='女'] 点击成功
+ERROR 2020-10-25 13:41:19,634 Message: javascript error: missing ) after argument list
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-25 13:41:19,718 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-25 13:41:19,780 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-25 13:41:19,843 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-25 13:41:19,916 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-25 13:41:19,975 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+ERROR 2020-10-25 13:41:49,981 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='customerSource']"}
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-25 13:42:20,042 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='customerType']"}
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-25 13:42:20,173 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+ERROR 2020-10-25 13:42:37,355 'NoneType' object has no attribute 'tag_name'
+ERROR 2020-10-25 13:42:37,359 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-25 13:42:37,362 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-25 13:42:37,375 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-25 13:42:37,390 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-25 13:42:37,395 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-25 13:42:37,397 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+ERROR 2020-10-25 13:42:37,399 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-25 13:42:42,468 crm关闭成功
+INFO 2020-10-25 13:43:23,833 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 13:43:23,919 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 13:43:23,997 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 13:43:24,646 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 13:43:24,646 用户:admin 登陆成功
+INFO 2020-10-25 13:43:25,683 frame:topFrame 切换成功！
+INFO 2020-10-25 13:43:26,772 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 13:43:27,779 frame切换到default成功！
+INFO 2020-10-25 13:43:59,825 frame:mainFrame 切换成功！
+INFO 2020-10-25 13:44:02,488 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 13:44:02,576 xpth://input[@name='customerName'] 添加:cl01 成功
+INFO 2020-10-25 13:44:02,639 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-25 13:44:02,713 xpth://input[@value='女'] 点击成功
+ERROR 2020-10-25 13:44:02,720 Message: javascript error: missing ) after argument list
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-25 13:44:02,797 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-25 13:44:02,859 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-25 13:44:02,916 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-25 13:44:02,987 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-25 13:44:03,046 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-25 13:44:03,098 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-25 13:44:03,163 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-25 13:44:03,252 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-25 13:44:03,312 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-25 13:44:03,386 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-25 13:44:03,446 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-25 13:44:03,506 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-25 13:44:03,576 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-25 13:44:03,642 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-25 13:44:03,716 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-25 13:44:03,720 Alert:- 出生日期不能为空!
+
+INFO 2020-10-25 13:44:09,638 crm关闭成功
+INFO 2020-10-25 13:53:42,743 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 13:53:42,820 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 13:53:42,894 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 13:53:43,400 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 13:53:43,401 用户:admin 登陆成功
+INFO 2020-10-25 13:53:44,435 frame:topFrame 切换成功！
+INFO 2020-10-25 13:53:45,523 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 13:53:46,528 frame切换到default成功！
+INFO 2020-10-25 13:54:18,596 frame:mainFrame 切换成功！
+INFO 2020-10-25 13:54:20,176 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 13:54:20,287 xpth://input[@name='customerName'] 添加:cl01 成功
+INFO 2020-10-25 13:54:20,358 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-25 13:54:20,438 xpth://input[@value='女'] 点击成功
+ERROR 2020-10-25 13:54:20,461 Message: javascript error: missing ) after argument list
+  (Session info: chrome=84.0.4147.105)
+
+INFO 2020-10-25 13:54:20,526 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-25 13:54:20,585 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-25 13:54:20,642 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-25 13:54:20,704 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-25 13:54:20,831 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-25 13:54:20,962 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-25 13:54:21,072 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-25 13:54:21,187 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-25 13:54:21,285 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-25 13:54:21,376 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-25 13:54:21,441 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-25 13:54:21,508 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-25 13:54:21,571 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-25 13:54:21,628 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-25 13:54:21,704 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-25 13:54:21,708 Alert:- 出生日期不能为空!
+
+INFO 2020-10-25 13:54:26,842 crm关闭成功
+INFO 2020-10-25 13:55:18,776 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 13:55:18,849 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 13:55:18,923 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 13:55:19,490 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 13:55:19,490 用户:admin 登陆成功
+INFO 2020-10-25 13:55:20,525 frame:topFrame 切换成功！
+INFO 2020-10-25 13:55:21,613 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 13:55:22,619 frame切换到default成功！
+INFO 2020-10-25 13:55:54,689 frame:mainFrame 切换成功！
+INFO 2020-10-25 13:55:56,252 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 13:55:56,337 xpth://input[@name='customerName'] 添加:cl01 成功
+INFO 2020-10-25 13:55:56,400 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-25 13:55:56,477 xpth://input[@value='女'] 点击成功
+INFO 2020-10-25 13:55:56,485 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-25 13:55:56,568 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-25 13:55:56,627 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-25 13:55:56,688 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-25 13:55:56,759 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-25 13:55:56,817 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-25 13:55:56,871 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-25 13:55:56,941 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-25 13:55:57,038 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-25 13:55:57,103 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-25 13:55:57,181 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-25 13:55:57,245 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-25 13:55:57,308 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-25 13:55:57,385 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-25 13:55:57,452 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-25 13:55:57,594 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-25 13:55:57,598 Alert:客户添加成功
+INFO 2020-10-25 13:56:02,808 crm关闭成功
+INFO 2020-10-25 13:57:35,635 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 13:57:35,713 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 13:57:35,786 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 13:57:36,172 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 13:57:36,172 用户:admin 登陆成功
+INFO 2020-10-25 13:57:37,211 frame:topFrame 切换成功！
+INFO 2020-10-25 13:57:38,311 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 13:57:39,318 frame切换到default成功！
+INFO 2020-10-25 13:58:11,368 frame:mainFrame 切换成功！
+INFO 2020-10-25 13:58:12,944 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 13:58:13,029 xpth://input[@name='customerName'] 添加:cl02 成功
+INFO 2020-10-25 13:58:13,094 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-25 13:58:13,174 xpth://input[@value='女'] 点击成功
+INFO 2020-10-25 13:58:13,179 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-25 13:58:13,271 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-25 13:58:13,331 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-25 13:58:13,391 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-25 13:58:13,462 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-25 13:58:13,526 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-25 13:58:13,582 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-25 13:58:13,651 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-25 13:58:13,747 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-25 13:58:13,809 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-25 13:58:13,885 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-25 13:58:13,947 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-25 13:58:14,011 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-25 13:58:14,080 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-25 13:58:14,146 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-25 13:58:14,288 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-25 13:58:14,291 Alert:客户添加成功
+INFO 2020-10-25 13:58:19,492 crm关闭成功
+INFO 2020-10-25 14:00:58,326 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 14:00:58,411 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 14:00:58,505 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 14:00:58,940 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 14:00:58,940 用户:admin 登陆成功
+INFO 2020-10-25 14:03:00,669 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 14:03:00,754 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 14:03:00,832 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 14:03:01,246 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 14:03:01,246 用户:admin 登陆成功
+INFO 2020-10-25 14:03:02,279 frame:topFrame 切换成功！
+INFO 2020-10-25 14:03:03,367 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 14:03:04,373 frame切换到default成功！
+INFO 2020-10-25 14:03:36,452 frame:mainFrame 切换成功！
+INFO 2020-10-25 14:03:38,062 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 14:03:38,141 xpth://input[@name='customerName'] 添加:cl03 成功
+INFO 2020-10-25 14:03:38,206 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-25 14:03:38,282 xpth://input[@value='女'] 点击成功
+INFO 2020-10-25 14:03:38,290 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-25 14:03:38,373 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-25 14:03:38,435 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-25 14:03:38,498 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-25 14:03:38,565 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-25 14:03:38,625 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-25 14:03:38,681 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-25 14:03:38,745 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-25 14:03:38,831 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-25 14:03:38,895 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-25 14:03:38,968 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-25 14:03:39,027 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-25 14:03:39,091 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-25 14:03:39,163 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-25 14:03:39,225 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-25 14:03:39,373 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-25 14:03:39,376 Alert:客户添加成功
+INFO 2020-10-25 14:03:44,526 crm关闭成功
+INFO 2020-10-25 14:13:06,766 url:http://www.summermori.icu:8080/crm 打开
+INFO 2020-10-25 14:13:06,767 yaml://input[@name='userNum'] 读取成功
+INFO 2020-10-25 14:13:06,846 xpth://input[@name='userNum'] 添加:admin 成功
+INFO 2020-10-25 14:13:06,846 yaml://input[@name='userPw'] 读取成功
+INFO 2020-10-25 14:13:06,920 xpth://input[@name='userPw'] 添加:123456 成功
+INFO 2020-10-25 14:13:06,920 yaml://input[@id='in1'] 读取成功
+INFO 2020-10-25 14:13:07,310 xpth://input[@id='in1'] 点击成功
+INFO 2020-10-25 14:13:07,311 用户:admin 登陆成功
+INFO 2020-10-25 14:13:08,345 frame:topFrame 切换成功！
+INFO 2020-10-25 14:13:09,432 xpth://div/a[text()='客户信息'] 点击成功
+INFO 2020-10-25 14:13:10,438 frame切换到default成功！
+INFO 2020-10-25 14:13:42,485 frame:mainFrame 切换成功！
+INFO 2020-10-25 14:13:44,058 xpth://input[@value='添加'] 点击成功
+INFO 2020-10-25 14:13:44,059 yaml://input[@name='customerName'] 读取成功
+INFO 2020-10-25 14:13:44,144 xpth://input[@name='customerName'] 添加:cl04 成功
+INFO 2020-10-25 14:13:44,144 yaml://input[@name='customerJob'] 读取成功
+INFO 2020-10-25 14:13:44,207 xpth://input[@name='customerJob'] 添加:程序员 成功
+INFO 2020-10-25 14:13:44,207 yaml://input[@value='女'] 读取成功
+INFO 2020-10-25 14:13:44,281 xpth://input[@value='女'] 点击成功
+INFO 2020-10-25 14:13:44,281 yaml:customerBirthday 读取成功
+INFO 2020-10-25 14:13:44,288 send_js:customerBirthday 添加:2020-10-25 12:47:29  成功
+INFO 2020-10-25 14:13:44,289 yaml://input[@name='customerMobile'] 读取成功
+INFO 2020-10-25 14:13:44,371 xpth://input[@name='customerMobile'] 添加:15826201993 成功
+INFO 2020-10-25 14:13:44,371 yaml://input[@name='customerAddress'] 读取成功
+INFO 2020-10-25 14:13:44,430 xpth://input[@name='customerAddress'] 添加:重庆 成功
+INFO 2020-10-25 14:13:44,431 yaml://input[@name='customerAddMan'] 读取成功
+INFO 2020-10-25 14:13:44,492 xpth://input[@name='customerAddMan'] 添加:李四 成功
+INFO 2020-10-25 14:13:44,493 yaml://input[@name='customerTel'] 读取成功
+INFO 2020-10-25 14:13:44,564 xpth://input[@name='customerTel'] 添加:1234567 成功
+INFO 2020-10-25 14:13:44,564 yaml://input[@name='customerCompany'] 读取成功
+INFO 2020-10-25 14:13:44,623 xpth://input[@name='customerCompany'] 添加:腾讯 成功
+INFO 2020-10-25 14:13:44,624 yaml://select[@name='customerSource'] 读取成功
+INFO 2020-10-25 14:13:44,678 xpth://select[@name='customerSource'] 添加:朋友推荐 成功
+INFO 2020-10-25 14:13:44,678 yaml://select[@name='customerType'] 读取成功
+INFO 2020-10-25 14:13:44,746 select_xpth://select[@name='customerType'] text:合作伙伴 选择成功
+INFO 2020-10-25 14:13:44,746 yaml://input[@name='customerEmail'] 读取成功
+INFO 2020-10-25 14:13:44,835 xpth://input[@name='customerEmail'] 添加:12343245@qq.com 成功
+INFO 2020-10-25 14:13:44,836 yaml://select[@name='customerCondition'] 读取成功
+INFO 2020-10-25 14:13:44,898 select_xpth://select[@name='customerCondition'] text:意向客户 选择成功
+INFO 2020-10-25 14:13:44,898 yaml://input[@name='customerQq'] 读取成功
+INFO 2020-10-25 14:13:44,973 xpth://input[@name='customerQq'] 添加:605580712 成功
+INFO 2020-10-25 14:13:44,973 yaml://input[@name='customerChangeMan'] 读取成功
+INFO 2020-10-25 14:13:45,036 xpth://input[@name='customerChangeMan'] 添加:张三 成功
+INFO 2020-10-25 14:13:45,037 yaml://input[@name='customerBlog'] 读取成功
+INFO 2020-10-25 14:13:45,097 xpth://input[@name='customerBlog'] 添加:mori 成功
+INFO 2020-10-25 14:13:45,097 yaml://input[@name='customerMsn'] 读取成功
+INFO 2020-10-25 14:13:45,166 xpth://input[@name='customerMsn'] 添加:12342345 成功
+INFO 2020-10-25 14:13:45,166 yaml://textarea[@name='customerRemark'] 读取成功
+INFO 2020-10-25 14:13:45,232 xpth://textarea[@name='customerRemark'] 添加:这是备注 成功
+INFO 2020-10-25 14:13:45,232 yaml://input[@name='submit'] 读取成功
+INFO 2020-10-25 14:13:45,380 xpth://input[@name='submit'] 点击成功
+INFO 2020-10-25 14:13:45,383 Alert:客户添加成功
+INFO 2020-10-25 14:13:51,282 crm关闭成功
